@@ -1,0 +1,5 @@
+on: push
+
+on:
+  issues:
+    types: [opened, edited, milestoned]
